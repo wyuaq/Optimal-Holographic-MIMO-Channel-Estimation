@@ -1,6 +1,6 @@
 # Optimal-Holographic-MIMO-Channel-Estimation
 
-**Note: I am currently re-organizing the code and will release it by the end of June at the latest.**
+**Note: I am currently organizing the code and adding more comments, and will release it by the end of June.**
 
 ## Introduction
 
