@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This repository contains the codes of the Bayes-optimal score-based channel estimation algorithm proposed in our [journal paper](https://arxiv.org/abs/2312.10438) "**Bayes-Optimal Unsupervised Learning for Channel Estimation in Near-Field Holographic MIMO**", which was accepted by the **IEEE Journal of Selected Topics in Signal Processing (JSTSP)**, Special Issue on Near-Field Signal Processing, Jun. 2024. 
+This repository contains the codes of the Bayes-optimal score-based channel estimation algorithm proposed in our [journal paper](https://arxiv.org/abs/2312.10438) "**Bayes-Optimal Unsupervised Learning for Channel Estimation in Near-Field Holographic MIMO**", which was accepted by the **IEEE Journal of Selected Topics in Signal Processing (JSTSP)**, Special Issue on Near-Field Signal Processing, to appear, Jun. 2024. 
 
 A preliminary [conference paper](https://arxiv.org/abs/2311.07908) "Learning Bayes-Optimal Channel Estimation for Holographic MIMO in Unknown EM Environments", was presented before at the 2024 IEEE International Conference on Communications (ICC'24), Denver, CO, USA.
 
