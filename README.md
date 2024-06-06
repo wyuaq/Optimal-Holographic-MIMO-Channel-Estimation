@@ -31,7 +31,7 @@ year = {2024}}
 @inproceedings{yu2024learning,
 author={Yu, Wentao and He, Hengtao and Yu, Xianghao and Song, Shenghui and Zhang, Jun and Murch, Ross and Letaief, Khaled B.},
 booktitle={ICC 2024 - 2024 IEEE International Conference on Communications}, 
-title={Learning Bayes-Optimal Channel Estimation for Holographic MIMO in Unknown EM Environments}, 
+title={Learning {Bayes}-Optimal Channel Estimation for Holographic {MIMO} in Unknown {EM} Environments}, 
 year={2024},
 volume={},
 number={},
