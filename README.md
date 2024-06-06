@@ -1,6 +1,8 @@
 # Optimal-Holographic-MIMO-Channel-Estimation
 Pytorch codes for "Bayes-Optimal Unsupervised Learning for Channel Estimation in Near-Field Holographic MIMO" in IEEE Journal of Selected Topics in Signal Processing (JSTSP), to appear, 2024.
 
+**Note: I am currently organizing the code and will release it by the end of June at the latest.**
+
 ## Introduction
 
 This repository contains the codes of the Bayes-optimal score-based channel estimation algorithm proposed in our [journal paper](https://arxiv.org/abs/2312.10438) "**Bayes-Optimal Unsupervised Learning for Channel Estimation in Near-Field Holographic MIMO**", which was accepted by the **IEEE Journal of Selected Topics in Signal Processing (JSTSP)**, Special Issue on Near-Field Signal Processing, Jun. 2024. 
