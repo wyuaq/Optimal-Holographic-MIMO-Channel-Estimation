@@ -10,7 +10,7 @@ A preliminary [conference paper](https://arxiv.org/abs/2311.07908) "Learning B
 
 The notations used in the codes may be slightly different from those in the papers. I tried to clarify with detailed comments. Should you meet any confusion or need any further help, please feel free to contact me via email (my github name [at] connect.ust.hk).
 
-If you find the codes useful for your research, please kindly cite our journal paper (bibtex file is provided at the bottom). Enjoy reproducible research!
+If you find the codes useful for your research, please kindly cite our journal paper (bibtex file is provided at the bottom) and leave a star. Enjoy reproducible research!
 
 ## Citation
 
