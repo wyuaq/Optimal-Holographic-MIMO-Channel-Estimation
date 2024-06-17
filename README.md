@@ -17,7 +17,7 @@ If you find the codes useful for your research, please kindly cite our journal p
 ```
 @article{yu2024Bayes,
 author = {Yu, Wentao and He, Hengtao and Yu, Xianghao and Song, Shenghui and Zhang, Jun and Murch, Ross and Letaief, Khaled B.},
-doi = {},
+doi = {10.1109/JSTSP.2024.3414137},
 journal = {IEEE J. Sel. Topics Signal Process.},
 month = {to appear, },
 number = {},
